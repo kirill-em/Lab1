@@ -9,4 +9,10 @@ namespace Lab1
             Console.WriteLine("Hello World!");
         }
     }
+    class ToConsole
+    {
+        public string Text;
+        public int Number;
+
+    }
 }
